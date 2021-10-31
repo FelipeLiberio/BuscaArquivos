@@ -1,0 +1,6 @@
+2021-10-15 10:24:23.899796 -> Arquivo 1.txt não encontrado no diretório /home/felipe/PycharmProjects/BuscaArquivos/data/
+2021-10-15 10:24:23.899796 -> Arquivo 1.txt encontrado em /home/felipe/PycharmProjects/BuscaArquivos/data/files
+2021-10-15 10:25:55.068949 -> Arquivo 1.txt não encontrado no diretório /home/felipe/PycharmProjects/BuscaArquivos/data/
+2021-10-15 10:25:55.068949 -> Arquivo 1.txt encontrado em /home/felipe/PycharmProjects/BuscaArquivos/data/files
+2021-10-15 10:26:12.776894 -> Arquivo 1.txt não encontrado no diretório /home/felipe/PycharmProjects/BuscaArquivos/data/
+2021-10-15 10:26:12.776894 -> Arquivo 1.txt encontrado em /home/felipe/PycharmProjects/BuscaArquivos/data/files

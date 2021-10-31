@@ -1,0 +1,123 @@
+2021-10-12 01:08:40.531774 -> Arquivo 1.txt não encontrado no diretório /home/felipe/PycharmProjects/BuscaArquivos/data/
+2021-10-12 01:08:40.531774 -> Arquivo 1.txt encontrado em /home/felipe/PycharmProjects/BuscaArquivos/data/files
+2021-10-12 01:08:40.531774 -> Arquivo 2.txt não encontrado no diretório /home/felipe/PycharmProjects/BuscaArquivos/data/
+2021-10-12 01:08:40.531774 -> Arquivo 2.txt encontrado em /home/felipe/PycharmProjects/BuscaArquivos/data/files
+2021-10-12 01:08:40.531774 -> Arquivo 3.txt não encontrado no diretório /home/felipe/PycharmProjects/BuscaArquivos/data/
+2021-10-12 01:08:40.531774 -> Arquivo 3.txt encontrado em /home/felipe/PycharmProjects/BuscaArquivos/data/files
+2021-10-12 01:08:40.531774 -> Arquivo 4.txt não encontrado no diretório /home/felipe/PycharmProjects/BuscaArquivos/data/
+2021-10-12 01:08:40.531774 -> Arquivo 4.txt encontrado em /home/felipe/PycharmProjects/BuscaArquivos/data/files
+2021-10-12 01:08:40.531774 -> Arquivo 5.txt não encontrado no diretório /home/felipe/PycharmProjects/BuscaArquivos/data/
+2021-10-12 01:08:40.531774 -> Arquivo 5.txt não encontrado no diretório /home/felipe/PycharmProjects/BuscaArquivos/data/files
+2021-10-12 01:08:40.531774 -> Arquivo 5.txt não encontrado no diretório /home/felipe/PycharmProjects/BuscaArquivos/data/logs
+2021-10-12 01:08:40.531774 -> Arquivo 5.txt não encontrado no diretório /home/felipe/PycharmProjects/BuscaArquivos/data/__pycache__
+2021-10-12 01:08:40.531774 -> Arquivo teste.xml encontrado em /home/felipe/PycharmProjects/BuscaArquivos/data/
+2021-10-12 01:09:04.700353 -> Arquivo 1.txt não encontrado no diretório /home/felipe/PycharmProjects/BuscaArquivos/data/
+2021-10-12 01:09:04.700353 -> Arquivo 1.txt encontrado em /home/felipe/PycharmProjects/BuscaArquivos/data/files
+2021-10-12 01:09:04.700353 -> Arquivo 2.txt não encontrado no diretório /home/felipe/PycharmProjects/BuscaArquivos/data/
+2021-10-12 01:09:04.700353 -> Arquivo 2.txt encontrado em /home/felipe/PycharmProjects/BuscaArquivos/data/files
+2021-10-12 01:09:04.700353 -> Arquivo 3.txt não encontrado no diretório /home/felipe/PycharmProjects/BuscaArquivos/data/
+2021-10-12 01:09:04.700353 -> Arquivo 3.txt encontrado em /home/felipe/PycharmProjects/BuscaArquivos/data/files
+2021-10-12 01:09:04.700353 -> Arquivo 4.txt não encontrado no diretório /home/felipe/PycharmProjects/BuscaArquivos/data/
+2021-10-12 01:09:04.700353 -> Arquivo 4.txt encontrado em /home/felipe/PycharmProjects/BuscaArquivos/data/files
+2021-10-12 01:09:04.700353 -> Arquivo 5.txt não encontrado no diretório /home/felipe/PycharmProjects/BuscaArquivos/data/
+2021-10-12 01:09:04.700353 -> Arquivo 5.txt não encontrado no diretório /home/felipe/PycharmProjects/BuscaArquivos/data/files
+2021-10-12 01:09:04.700353 -> Arquivo 5.txt não encontrado no diretório /home/felipe/PycharmProjects/BuscaArquivos/data/logs
+2021-10-12 01:09:04.700353 -> Arquivo 5.txt não encontrado no diretório /home/felipe/PycharmProjects/BuscaArquivos/data/__pycache__
+2021-10-12 01:09:04.700353 -> Arquivo teste.xml encontrado em /home/felipe/PycharmProjects/BuscaArquivos/data/
+2021-10-12 01:09:24.381468 -> Arquivo 1.txt não encontrado no diretório /home/felipe/PycharmProjects/BuscaArquivos/data/
+2021-10-12 01:09:24.381468 -> Arquivo 1.txt encontrado em /home/felipe/PycharmProjects/BuscaArquivos/data/files
+2021-10-12 01:09:24.381468 -> Arquivo 2.txt não encontrado no diretório /home/felipe/PycharmProjects/BuscaArquivos/data/
+2021-10-12 01:09:24.381468 -> Arquivo 2.txt encontrado em /home/felipe/PycharmProjects/BuscaArquivos/data/files
+2021-10-12 01:09:24.381468 -> Arquivo 3.txt não encontrado no diretório /home/felipe/PycharmProjects/BuscaArquivos/data/
+2021-10-12 01:09:24.381468 -> Arquivo 3.txt encontrado em /home/felipe/PycharmProjects/BuscaArquivos/data/files
+2021-10-12 01:09:24.381468 -> Arquivo 4.txt não encontrado no diretório /home/felipe/PycharmProjects/BuscaArquivos/data/
+2021-10-12 01:09:24.381468 -> Arquivo 4.txt encontrado em /home/felipe/PycharmProjects/BuscaArquivos/data/files
+2021-10-12 01:09:24.381468 -> Arquivo 5.txt não encontrado no diretório /home/felipe/PycharmProjects/BuscaArquivos/data/
+2021-10-12 01:09:24.381468 -> Arquivo 5.txt não encontrado no diretório /home/felipe/PycharmProjects/BuscaArquivos/data/files
+2021-10-12 01:09:24.381468 -> Arquivo 5.txt não encontrado no diretório /home/felipe/PycharmProjects/BuscaArquivos/data/logs
+2021-10-12 01:09:24.381468 -> Arquivo 5.txt não encontrado no diretório /home/felipe/PycharmProjects/BuscaArquivos/data/__pycache__
+2021-10-12 01:09:24.381468 -> Arquivo teste.xml encontrado em /home/felipe/PycharmProjects/BuscaArquivos/data/
+2021-10-12 01:09:32.544995 -> Arquivo 1.txt não encontrado no diretório /home/felipe/PycharmProjects/BuscaArquivos/data/
+2021-10-12 01:09:32.544995 -> Arquivo 1.txt encontrado em /home/felipe/PycharmProjects/BuscaArquivos/data/files
+2021-10-12 01:09:32.544995 -> Arquivo 2.txt não encontrado no diretório /home/felipe/PycharmProjects/BuscaArquivos/data/
+2021-10-12 01:09:32.544995 -> Arquivo 2.txt encontrado em /home/felipe/PycharmProjects/BuscaArquivos/data/files
+2021-10-12 01:09:32.544995 -> Arquivo 3.txt não encontrado no diretório /home/felipe/PycharmProjects/BuscaArquivos/data/
+2021-10-12 01:09:32.544995 -> Arquivo 3.txt encontrado em /home/felipe/PycharmProjects/BuscaArquivos/data/files
+2021-10-12 01:09:32.544995 -> Arquivo 4.txt não encontrado no diretório /home/felipe/PycharmProjects/BuscaArquivos/data/
+2021-10-12 01:09:32.544995 -> Arquivo 4.txt encontrado em /home/felipe/PycharmProjects/BuscaArquivos/data/files
+2021-10-12 01:09:32.544995 -> Arquivo 5.txt não encontrado no diretório /home/felipe/PycharmProjects/BuscaArquivos/data/
+2021-10-12 01:09:32.544995 -> Arquivo 5.txt não encontrado no diretório /home/felipe/PycharmProjects/BuscaArquivos/data/files
+2021-10-12 01:09:32.544995 -> Arquivo 5.txt não encontrado no diretório /home/felipe/PycharmProjects/BuscaArquivos/data/logs
+2021-10-12 01:09:32.544995 -> Arquivo 5.txt não encontrado no diretório /home/felipe/PycharmProjects/BuscaArquivos/data/__pycache__
+2021-10-12 01:09:32.544995 -> Arquivo teste.xml encontrado em /home/felipe/PycharmProjects/BuscaArquivos/data/
+2021-10-12 01:09:39.230715 -> Arquivo 1.txt não encontrado no diretório /home/felipe/PycharmProjects/BuscaArquivos/data/
+2021-10-12 01:09:39.230715 -> Arquivo 1.txt encontrado em /home/felipe/PycharmProjects/BuscaArquivos/data/files
+2021-10-12 01:09:39.230715 -> Arquivo 2.txt não encontrado no diretório /home/felipe/PycharmProjects/BuscaArquivos/data/
+2021-10-12 01:09:39.230715 -> Arquivo 2.txt encontrado em /home/felipe/PycharmProjects/BuscaArquivos/data/files
+2021-10-12 01:09:39.230715 -> Arquivo 3.txt não encontrado no diretório /home/felipe/PycharmProjects/BuscaArquivos/data/
+2021-10-12 01:09:39.230715 -> Arquivo 3.txt encontrado em /home/felipe/PycharmProjects/BuscaArquivos/data/files
+2021-10-12 01:09:39.230715 -> Arquivo 4.txt não encontrado no diretório /home/felipe/PycharmProjects/BuscaArquivos/data/
+2021-10-12 01:09:39.230715 -> Arquivo 4.txt encontrado em /home/felipe/PycharmProjects/BuscaArquivos/data/files
+2021-10-12 01:09:39.230715 -> Arquivo 5.txt não encontrado no diretório /home/felipe/PycharmProjects/BuscaArquivos/data/
+2021-10-12 01:09:39.230715 -> Arquivo 5.txt não encontrado no diretório /home/felipe/PycharmProjects/BuscaArquivos/data/files
+2021-10-12 01:09:39.230715 -> Arquivo 5.txt não encontrado no diretório /home/felipe/PycharmProjects/BuscaArquivos/data/logs
+2021-10-12 01:09:39.230715 -> Arquivo 5.txt não encontrado no diretório /home/felipe/PycharmProjects/BuscaArquivos/data/__pycache__
+2021-10-12 01:09:39.230715 -> Arquivo teste.xml encontrado em /home/felipe/PycharmProjects/BuscaArquivos/data/
+2021-10-12 01:09:49.401411 -> Arquivo 1.txt não encontrado no diretório /home/felipe/PycharmProjects/BuscaArquivos/data/
+2021-10-12 01:09:49.401411 -> Arquivo 1.txt encontrado em /home/felipe/PycharmProjects/BuscaArquivos/data/files
+2021-10-12 01:09:49.401411 -> Arquivo 2.txt não encontrado no diretório /home/felipe/PycharmProjects/BuscaArquivos/data/
+2021-10-12 01:09:49.401411 -> Arquivo 2.txt encontrado em /home/felipe/PycharmProjects/BuscaArquivos/data/files
+2021-10-12 01:09:49.401411 -> Arquivo 3.txt não encontrado no diretório /home/felipe/PycharmProjects/BuscaArquivos/data/
+2021-10-12 01:09:49.401411 -> Arquivo 3.txt encontrado em /home/felipe/PycharmProjects/BuscaArquivos/data/files
+2021-10-12 01:09:49.401411 -> Arquivo 4.txt não encontrado no diretório /home/felipe/PycharmProjects/BuscaArquivos/data/
+2021-10-12 01:09:49.401411 -> Arquivo 4.txt encontrado em /home/felipe/PycharmProjects/BuscaArquivos/data/files
+2021-10-12 01:09:49.401411 -> Arquivo 5.txt não encontrado no diretório /home/felipe/PycharmProjects/BuscaArquivos/data/
+2021-10-12 01:09:49.401411 -> Arquivo 5.txt não encontrado no diretório /home/felipe/PycharmProjects/BuscaArquivos/data/files
+2021-10-12 01:09:49.401411 -> Arquivo 5.txt não encontrado no diretório /home/felipe/PycharmProjects/BuscaArquivos/data/logs
+2021-10-12 01:09:49.401411 -> Arquivo 5.txt não encontrado no diretório /home/felipe/PycharmProjects/BuscaArquivos/data/__pycache__
+2021-10-12 01:09:49.401411 -> Arquivo teste.xml encontrado em /home/felipe/PycharmProjects/BuscaArquivos/data/
+2021-10-12 01:10:03.023746 -> Arquivo 1.txt não encontrado no diretório /home/felipe/PycharmProjects/BuscaArquivos/data/
+2021-10-12 01:10:03.023746 -> Arquivo 1.txt encontrado em /home/felipe/PycharmProjects/BuscaArquivos/data/files
+2021-10-12 01:10:03.023746 -> Arquivo 2.txt não encontrado no diretório /home/felipe/PycharmProjects/BuscaArquivos/data/
+2021-10-12 01:10:03.023746 -> Arquivo 2.txt encontrado em /home/felipe/PycharmProjects/BuscaArquivos/data/files
+2021-10-12 01:10:03.023746 -> Arquivo 3.txt não encontrado no diretório /home/felipe/PycharmProjects/BuscaArquivos/data/
+2021-10-12 01:10:03.023746 -> Arquivo 3.txt encontrado em /home/felipe/PycharmProjects/BuscaArquivos/data/files
+2021-10-12 01:10:03.023746 -> Arquivo 4.txt não encontrado no diretório /home/felipe/PycharmProjects/BuscaArquivos/data/
+2021-10-12 01:10:03.023746 -> Arquivo 4.txt encontrado em /home/felipe/PycharmProjects/BuscaArquivos/data/files
+2021-10-12 01:10:03.023746 -> Arquivo 5.txt não encontrado no diretório /home/felipe/PycharmProjects/BuscaArquivos/data/
+2021-10-12 01:10:03.023746 -> Arquivo 5.txt não encontrado no diretório /home/felipe/PycharmProjects/BuscaArquivos/data/files
+2021-10-12 01:10:03.023746 -> Arquivo 5.txt não encontrado no diretório /home/felipe/PycharmProjects/BuscaArquivos/data/logs
+2021-10-12 01:10:03.023746 -> Arquivo 5.txt não encontrado no diretório /home/felipe/PycharmProjects/BuscaArquivos/data/__pycache__
+2021-10-12 01:10:03.023746 -> Arquivo teste.xml encontrado em /home/felipe/PycharmProjects/BuscaArquivos/data/
+2021-10-12 01:10:29.134402 -> Arquivo 1.txt não encontrado no diretório /home/felipe/PycharmProjects/BuscaArquivos/data/
+2021-10-12 01:10:29.134402 -> Arquivo 1.txt encontrado em /home/felipe/PycharmProjects/BuscaArquivos/data/files
+2021-10-12 01:10:29.134402 -> Arquivo 2.txt não encontrado no diretório /home/felipe/PycharmProjects/BuscaArquivos/data/
+2021-10-12 01:10:29.134402 -> Arquivo 2.txt encontrado em /home/felipe/PycharmProjects/BuscaArquivos/data/files
+2021-10-12 01:10:29.134402 -> Arquivo 3.txt não encontrado no diretório /home/felipe/PycharmProjects/BuscaArquivos/data/
+2021-10-12 01:10:29.134402 -> Arquivo 3.txt encontrado em /home/felipe/PycharmProjects/BuscaArquivos/data/files
+2021-10-12 01:10:29.134402 -> Arquivo 4.txt não encontrado no diretório /home/felipe/PycharmProjects/BuscaArquivos/data/
+2021-10-12 01:10:29.134402 -> Arquivo 4.txt encontrado em /home/felipe/PycharmProjects/BuscaArquivos/data/files
+2021-10-12 01:10:29.134402 -> Arquivo 5.txt não encontrado no diretório /home/felipe/PycharmProjects/BuscaArquivos/data/
+2021-10-12 01:10:29.134402 -> Arquivo 5.txt não encontrado no diretório /home/felipe/PycharmProjects/BuscaArquivos/data/files
+2021-10-12 01:10:29.134402 -> Arquivo 5.txt não encontrado no diretório /home/felipe/PycharmProjects/BuscaArquivos/data/logs
+2021-10-12 01:10:29.134402 -> Arquivo 5.txt não encontrado no diretório /home/felipe/PycharmProjects/BuscaArquivos/data/__pycache__
+2021-10-12 01:10:29.134402 -> Arquivo teste.xml encontrado em /home/felipe/PycharmProjects/BuscaArquivos/data/
+2021-10-12 01:18:16.072798 -> Arquivo 1.txt não encontrado no diretório /home/felipe/PycharmProjects/BuscaArquivos/data/
+2021-10-12 01:18:16.072798 -> Arquivo 1.txt encontrado em /home/felipe/PycharmProjects/BuscaArquivos/data/files
+2021-10-12 01:18:16.072798 -> Arquivo 2.txt não encontrado no diretório /home/felipe/PycharmProjects/BuscaArquivos/data/
+2021-10-12 01:18:16.072798 -> Arquivo 2.txt encontrado em /home/felipe/PycharmProjects/BuscaArquivos/data/files
+2021-10-12 01:18:16.072798 -> Arquivo 3.txt não encontrado no diretório /home/felipe/PycharmProjects/BuscaArquivos/data/
+2021-10-12 01:18:16.072798 -> Arquivo 3.txt encontrado em /home/felipe/PycharmProjects/BuscaArquivos/data/files
+2021-10-12 01:18:16.072798 -> Arquivo 4.txt não encontrado no diretório /home/felipe/PycharmProjects/BuscaArquivos/data/
+2021-10-12 01:18:16.072798 -> Arquivo 4.txt encontrado em /home/felipe/PycharmProjects/BuscaArquivos/data/files
+2021-10-12 01:18:16.072798 -> Arquivo 5.txt não encontrado no diretório /home/felipe/PycharmProjects/BuscaArquivos/data/
+2021-10-12 01:18:16.072798 -> Arquivo 5.txt não encontrado no diretório /home/felipe/PycharmProjects/BuscaArquivos/data/files
+2021-10-12 01:18:16.072798 -> Arquivo 5.txt não encontrado no diretório /home/felipe/PycharmProjects/BuscaArquivos/data/logs
+2021-10-12 01:18:16.072798 -> Arquivo 5.txt não encontrado no diretório /home/felipe/PycharmProjects/BuscaArquivos/data/__pycache__
+2021-10-12 01:18:16.072798 -> Arquivo teste.xml encontrado em /home/felipe/PycharmProjects/BuscaArquivos/data/
+2021-10-12 01:27:36.481291 -> Arquivo 1.txt não encontrado no diretório /home/felipe/PycharmProjects/BuscaArquivos/data/
+2021-10-12 01:27:36.481291 -> Arquivo 1.txt encontrado em /home/felipe/PycharmProjects/BuscaArquivos/data/files
+2021-10-12 10:20:56.459687 -> Arquivo 1.txt não encontrado no diretório /home/felipe/PycharmProjects/BuscaArquivos/data/
+2021-10-12 10:20:56.459687 -> Arquivo 1.txt encontrado em /home/felipe/PycharmProjects/BuscaArquivos/data/files
+2021-10-12 10:23:40.152861 -> Arquivo 1.txt não encontrado no diretório /home/felipe/PycharmProjects/BuscaArquivos/data/
+2021-10-12 10:23:40.152861 -> Arquivo 1.txt encontrado em /home/felipe/PycharmProjects/BuscaArquivos/data/files

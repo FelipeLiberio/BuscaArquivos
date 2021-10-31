@@ -1,0 +1,144 @@
+2021-10-16 01:19:51 -> Arquivo 1.txt não encontrado no diretório /home/felipe/PycharmProjects/BuscaArquivos/data/
+2021-10-16 01:19:51 -> Arquivo 1.txt encontrado em /home/felipe/PycharmProjects/BuscaArquivos/data/files
+2021-10-16 01:19:51 -> Realizada copia de 1.txt para o diretório /home/felipe/PycharmProjects/BuscaArquivos/data/files/1.txt
+2021-10-16 01:19:51 -> Arquivo 2.txt não encontrado no diretório /home/felipe/PycharmProjects/BuscaArquivos/data/
+2021-10-16 01:19:51 -> Arquivo 2.txt encontrado em /home/felipe/PycharmProjects/BuscaArquivos/data/files
+2021-10-16 01:19:51 -> Realizada copia de 2.txt para o diretório /home/felipe/PycharmProjects/BuscaArquivos/data/files/2.txt
+2021-10-16 01:19:51 -> Arquivo 3.txt não encontrado no diretório /home/felipe/PycharmProjects/BuscaArquivos/data/
+2021-10-16 01:19:51 -> Arquivo 3.txt encontrado em /home/felipe/PycharmProjects/BuscaArquivos/data/files
+2021-10-16 01:19:51 -> Realizada copia de 3.txt para o diretório /home/felipe/PycharmProjects/BuscaArquivos/data/files/3.txt
+2021-10-16 01:19:51 -> Arquivo 4.txt não encontrado no diretório /home/felipe/PycharmProjects/BuscaArquivos/data/
+2021-10-16 01:19:51 -> Arquivo 4.txt encontrado em /home/felipe/PycharmProjects/BuscaArquivos/data/files
+2021-10-16 01:19:51 -> Realizada copia de 4.txt para o diretório /home/felipe/PycharmProjects/BuscaArquivos/data/files/4.txt
+2021-10-16 01:19:51 -> Arquivo 5.txt não encontrado no diretório /home/felipe/PycharmProjects/BuscaArquivos/data/
+2021-10-16 01:19:51 -> Arquivo 5.txt não encontrado no diretório /home/felipe/PycharmProjects/BuscaArquivos/data/files
+2021-10-16 01:19:51 -> Arquivo 5.txt não encontrado no diretório /home/felipe/PycharmProjects/BuscaArquivos/data/logs
+2021-10-16 01:19:51 -> Arquivo 5.txt não encontrado no diretório /home/felipe/PycharmProjects/BuscaArquivos/data/__pycache__
+2021-10-16 01:20:46 -> Arquivo 1.txt não encontrado no diretório /home/felipe/PycharmProjects/BuscaArquivos/data/
+2021-10-16 01:20:46 -> Arquivo 1.txt encontrado em /home/felipe/PycharmProjects/BuscaArquivos/data/files
+2021-10-16 01:20:46 -> Realizada copia de 1.txt para o diretório /home/felipe/PycharmProjects/BuscaArquivos/data/files/1.txt
+2021-10-16 01:20:46 -> Arquivo 2.txt não encontrado no diretório /home/felipe/PycharmProjects/BuscaArquivos/data/
+2021-10-16 01:20:46 -> Arquivo 2.txt encontrado em /home/felipe/PycharmProjects/BuscaArquivos/data/files
+2021-10-16 01:20:46 -> Realizada copia de 2.txt para o diretório /home/felipe/PycharmProjects/BuscaArquivos/data/files/2.txt
+2021-10-16 01:20:46 -> Arquivo 3.txt não encontrado no diretório /home/felipe/PycharmProjects/BuscaArquivos/data/
+2021-10-16 01:20:46 -> Arquivo 3.txt encontrado em /home/felipe/PycharmProjects/BuscaArquivos/data/files
+2021-10-16 01:20:46 -> Realizada copia de 3.txt para o diretório /home/felipe/PycharmProjects/BuscaArquivos/data/files/3.txt
+2021-10-16 01:20:46 -> Arquivo 4.txt não encontrado no diretório /home/felipe/PycharmProjects/BuscaArquivos/data/
+2021-10-16 01:20:46 -> Arquivo 4.txt encontrado em /home/felipe/PycharmProjects/BuscaArquivos/data/files
+2021-10-16 01:20:46 -> Realizada copia de 4.txt para o diretório /home/felipe/PycharmProjects/BuscaArquivos/data/files/4.txt
+2021-10-16 01:20:46 -> Arquivo 5.txt não encontrado no diretório /home/felipe/PycharmProjects/BuscaArquivos/data/
+2021-10-16 01:20:46 -> Arquivo 5.txt não encontrado no diretório /home/felipe/PycharmProjects/BuscaArquivos/data/files
+2021-10-16 01:20:46 -> Arquivo 5.txt não encontrado no diretório /home/felipe/PycharmProjects/BuscaArquivos/data/logs
+2021-10-16 01:20:46 -> Arquivo 5.txt não encontrado no diretório /home/felipe/PycharmProjects/BuscaArquivos/data/__pycache__
+2021-10-16 01:22:44 -> Arquivo 1.txt não encontrado no diretório /home/felipe/PycharmProjects/BuscaArquivos/data/
+2021-10-16 01:22:44 -> Arquivo 1.txt encontrado em /home/felipe/PycharmProjects/BuscaArquivos/data/files
+2021-10-16 01:22:44 -> Realizada copia de 1.txt para o diretório /home/felipe/PycharmProjects/BuscaArquivos/data/files/1.txt
+2021-10-16 01:22:44 -> Arquivo 2.txt não encontrado no diretório /home/felipe/PycharmProjects/BuscaArquivos/data/
+2021-10-16 01:22:44 -> Arquivo 2.txt encontrado em /home/felipe/PycharmProjects/BuscaArquivos/data/files
+2021-10-16 01:22:44 -> Realizada copia de 2.txt para o diretório /home/felipe/PycharmProjects/BuscaArquivos/data/files/2.txt
+2021-10-16 01:22:44 -> Arquivo 3.txt não encontrado no diretório /home/felipe/PycharmProjects/BuscaArquivos/data/
+2021-10-16 01:22:44 -> Arquivo 3.txt encontrado em /home/felipe/PycharmProjects/BuscaArquivos/data/files
+2021-10-16 01:22:44 -> Realizada copia de 3.txt para o diretório /home/felipe/PycharmProjects/BuscaArquivos/data/files/3.txt
+2021-10-16 01:22:44 -> Arquivo 4.txt não encontrado no diretório /home/felipe/PycharmProjects/BuscaArquivos/data/
+2021-10-16 01:22:44 -> Arquivo 4.txt encontrado em /home/felipe/PycharmProjects/BuscaArquivos/data/files
+2021-10-16 01:22:44 -> Realizada copia de 4.txt para o diretório /home/felipe/PycharmProjects/BuscaArquivos/data/files/4.txt
+2021-10-16 01:22:44 -> Arquivo 5.txt não encontrado no diretório /home/felipe/PycharmProjects/BuscaArquivos/data/
+2021-10-16 01:22:44 -> Arquivo 5.txt não encontrado no diretório /home/felipe/PycharmProjects/BuscaArquivos/data/files
+2021-10-16 01:22:44 -> Arquivo 5.txt não encontrado no diretório /home/felipe/PycharmProjects/BuscaArquivos/data/logs
+2021-10-16 01:22:44 -> Arquivo 5.txt não encontrado no diretório /home/felipe/PycharmProjects/BuscaArquivos/data/__pycache__
+2021-10-16 09:07:39 -> Arquivo 1.txt não encontrado no diretório /home/felipe/PycharmProjects/BuscaArquivos/data/
+2021-10-16 09:07:39 -> Arquivo 1.txt encontrado em /home/felipe/PycharmProjects/BuscaArquivos/data/files
+2021-10-16 09:07:39 -> Realizada copia de 1.txt para o diretório /home/felipe/PycharmProjects/BuscaArquivos/data/files/1.txt
+2021-10-16 09:07:39 -> Arquivo 2.txt não encontrado no diretório /home/felipe/PycharmProjects/BuscaArquivos/data/
+2021-10-16 09:07:39 -> Arquivo 2.txt encontrado em /home/felipe/PycharmProjects/BuscaArquivos/data/files
+2021-10-16 09:07:39 -> Realizada copia de 2.txt para o diretório /home/felipe/PycharmProjects/BuscaArquivos/data/files/2.txt
+2021-10-16 09:07:39 -> Arquivo 3.txt não encontrado no diretório /home/felipe/PycharmProjects/BuscaArquivos/data/
+2021-10-16 09:07:39 -> Arquivo 3.txt encontrado em /home/felipe/PycharmProjects/BuscaArquivos/data/files
+2021-10-16 09:07:39 -> Realizada copia de 3.txt para o diretório /home/felipe/PycharmProjects/BuscaArquivos/data/files/3.txt
+2021-10-16 09:07:39 -> Arquivo 4.txt não encontrado no diretório /home/felipe/PycharmProjects/BuscaArquivos/data/
+2021-10-16 09:07:39 -> Arquivo 4.txt encontrado em /home/felipe/PycharmProjects/BuscaArquivos/data/files
+2021-10-16 09:07:39 -> Realizada copia de 4.txt para o diretório /home/felipe/PycharmProjects/BuscaArquivos/data/files/4.txt
+2021-10-16 09:07:39 -> Arquivo 5.txt não encontrado no diretório /home/felipe/PycharmProjects/BuscaArquivos/data/
+2021-10-16 09:07:39 -> Arquivo 5.txt não encontrado no diretório /home/felipe/PycharmProjects/BuscaArquivos/data/files
+2021-10-16 09:07:39 -> Arquivo 5.txt não encontrado no diretório /home/felipe/PycharmProjects/BuscaArquivos/data/logs
+2021-10-16 09:07:39 -> Arquivo 5.txt não encontrado no diretório /home/felipe/PycharmProjects/BuscaArquivos/data/__pycache__
+2021-10-16 09:08:38 -> Arquivo 1.txt não encontrado no diretório /home/felipe/PycharmProjects/BuscaArquivos/data/
+2021-10-16 09:08:38 -> Arquivo 1.txt encontrado em /home/felipe/PycharmProjects/BuscaArquivos/data/files
+2021-10-16 09:08:38 -> Realizada copia de 1.txt para o diretório /home/felipe/PycharmProjects/BuscaArquivos/data/files/1.txt
+2021-10-16 09:08:38 -> Arquivo 2.txt não encontrado no diretório /home/felipe/PycharmProjects/BuscaArquivos/data/
+2021-10-16 09:08:38 -> Arquivo 2.txt encontrado em /home/felipe/PycharmProjects/BuscaArquivos/data/files
+2021-10-16 09:08:38 -> Realizada copia de 2.txt para o diretório /home/felipe/PycharmProjects/BuscaArquivos/data/files/2.txt
+2021-10-16 09:08:38 -> Arquivo 3.txt não encontrado no diretório /home/felipe/PycharmProjects/BuscaArquivos/data/
+2021-10-16 09:08:38 -> Arquivo 3.txt encontrado em /home/felipe/PycharmProjects/BuscaArquivos/data/files
+2021-10-16 09:08:38 -> Realizada copia de 3.txt para o diretório /home/felipe/PycharmProjects/BuscaArquivos/data/files/3.txt
+2021-10-16 09:08:38 -> Arquivo 4.txt não encontrado no diretório /home/felipe/PycharmProjects/BuscaArquivos/data/
+2021-10-16 09:08:38 -> Arquivo 4.txt encontrado em /home/felipe/PycharmProjects/BuscaArquivos/data/files
+2021-10-16 09:08:38 -> Realizada copia de 4.txt para o diretório /home/felipe/PycharmProjects/BuscaArquivos/data/files/4.txt
+2021-10-16 09:08:38 -> Arquivo 5.txt não encontrado no diretório /home/felipe/PycharmProjects/BuscaArquivos/data/
+2021-10-16 09:08:38 -> Arquivo 5.txt não encontrado no diretório /home/felipe/PycharmProjects/BuscaArquivos/data/files
+2021-10-16 09:08:38 -> Arquivo 5.txt não encontrado no diretório /home/felipe/PycharmProjects/BuscaArquivos/data/logs
+2021-10-16 09:08:38 -> Arquivo 5.txt não encontrado no diretório /home/felipe/PycharmProjects/BuscaArquivos/data/__pycache__
+2021-10-16 09:08:52 -> Arquivo 1.txt não encontrado no diretório /home/felipe/PycharmProjects/BuscaArquivos/data/
+2021-10-16 09:08:52 -> Arquivo 1.txt encontrado em /home/felipe/PycharmProjects/BuscaArquivos/data/files
+2021-10-16 09:08:52 -> Realizada copia de 1.txt para o diretório /home/felipe/PycharmProjects/BuscaArquivos/data/files/1.txt
+2021-10-16 09:08:52 -> Arquivo 2.txt não encontrado no diretório /home/felipe/PycharmProjects/BuscaArquivos/data/
+2021-10-16 09:08:52 -> Arquivo 2.txt encontrado em /home/felipe/PycharmProjects/BuscaArquivos/data/files
+2021-10-16 09:08:52 -> Realizada copia de 2.txt para o diretório /home/felipe/PycharmProjects/BuscaArquivos/data/files/2.txt
+2021-10-16 09:08:52 -> Arquivo 3.txt não encontrado no diretório /home/felipe/PycharmProjects/BuscaArquivos/data/
+2021-10-16 09:08:52 -> Arquivo 3.txt encontrado em /home/felipe/PycharmProjects/BuscaArquivos/data/files
+2021-10-16 09:08:52 -> Realizada copia de 3.txt para o diretório /home/felipe/PycharmProjects/BuscaArquivos/data/files/3.txt
+2021-10-16 09:08:52 -> Arquivo 4.txt não encontrado no diretório /home/felipe/PycharmProjects/BuscaArquivos/data/
+2021-10-16 09:08:52 -> Arquivo 4.txt encontrado em /home/felipe/PycharmProjects/BuscaArquivos/data/files
+2021-10-16 09:08:52 -> Realizada copia de 4.txt para o diretório /home/felipe/PycharmProjects/BuscaArquivos/data/files/4.txt
+2021-10-16 09:08:52 -> Arquivo 5.txt não encontrado no diretório /home/felipe/PycharmProjects/BuscaArquivos/data/
+2021-10-16 09:08:52 -> Arquivo 5.txt não encontrado no diretório /home/felipe/PycharmProjects/BuscaArquivos/data/files
+2021-10-16 09:08:52 -> Arquivo 5.txt não encontrado no diretório /home/felipe/PycharmProjects/BuscaArquivos/data/logs
+2021-10-16 09:08:52 -> Arquivo 5.txt não encontrado no diretório /home/felipe/PycharmProjects/BuscaArquivos/data/__pycache__
+2021-10-16 09:09:00 -> Arquivo 1.txt não encontrado no diretório /home/felipe/PycharmProjects/BuscaArquivos/data/
+2021-10-16 09:09:00 -> Arquivo 1.txt encontrado em /home/felipe/PycharmProjects/BuscaArquivos/data/files
+2021-10-16 09:09:00 -> Realizada copia de 1.txt para o diretório /home/felipe/PycharmProjects/BuscaArquivos/data/files/1.txt
+2021-10-16 09:09:00 -> Arquivo 2.txt não encontrado no diretório /home/felipe/PycharmProjects/BuscaArquivos/data/
+2021-10-16 09:09:00 -> Arquivo 2.txt encontrado em /home/felipe/PycharmProjects/BuscaArquivos/data/files
+2021-10-16 09:09:00 -> Realizada copia de 2.txt para o diretório /home/felipe/PycharmProjects/BuscaArquivos/data/files/2.txt
+2021-10-16 09:09:00 -> Arquivo 3.txt não encontrado no diretório /home/felipe/PycharmProjects/BuscaArquivos/data/
+2021-10-16 09:09:00 -> Arquivo 3.txt encontrado em /home/felipe/PycharmProjects/BuscaArquivos/data/files
+2021-10-16 09:09:00 -> Realizada copia de 3.txt para o diretório /home/felipe/PycharmProjects/BuscaArquivos/data/files/3.txt
+2021-10-16 09:09:00 -> Arquivo 4.txt não encontrado no diretório /home/felipe/PycharmProjects/BuscaArquivos/data/
+2021-10-16 09:09:00 -> Arquivo 4.txt encontrado em /home/felipe/PycharmProjects/BuscaArquivos/data/files
+2021-10-16 09:09:00 -> Realizada copia de 4.txt para o diretório /home/felipe/PycharmProjects/BuscaArquivos/data/files/4.txt
+2021-10-16 09:09:00 -> Arquivo 5.txt não encontrado no diretório /home/felipe/PycharmProjects/BuscaArquivos/data/
+2021-10-16 09:09:00 -> Arquivo 5.txt não encontrado no diretório /home/felipe/PycharmProjects/BuscaArquivos/data/files
+2021-10-16 09:09:00 -> Arquivo 5.txt não encontrado no diretório /home/felipe/PycharmProjects/BuscaArquivos/data/logs
+2021-10-16 09:09:00 -> Arquivo 5.txt não encontrado no diretório /home/felipe/PycharmProjects/BuscaArquivos/data/__pycache__
+2021-10-16 09:12:17 -> Arquivo 1.txt não encontrado no diretório /home/felipe/PycharmProjects/BuscaArquivos/data/
+2021-10-16 09:12:17 -> Arquivo 1.txt encontrado em /home/felipe/PycharmProjects/BuscaArquivos/data/files
+2021-10-16 09:12:17 -> Realizada copia de 1.txt para o diretório /home/felipe/PycharmProjects/BuscaArquivos/data/files/1.txt
+2021-10-16 09:12:17 -> Arquivo 2.txt não encontrado no diretório /home/felipe/PycharmProjects/BuscaArquivos/data/
+2021-10-16 09:12:17 -> Arquivo 2.txt encontrado em /home/felipe/PycharmProjects/BuscaArquivos/data/files
+2021-10-16 09:12:17 -> Realizada copia de 2.txt para o diretório /home/felipe/PycharmProjects/BuscaArquivos/data/files/2.txt
+2021-10-16 09:12:17 -> Arquivo 3.txt não encontrado no diretório /home/felipe/PycharmProjects/BuscaArquivos/data/
+2021-10-16 09:12:17 -> Arquivo 3.txt encontrado em /home/felipe/PycharmProjects/BuscaArquivos/data/files
+2021-10-16 09:12:17 -> Realizada copia de 3.txt para o diretório /home/felipe/PycharmProjects/BuscaArquivos/data/files/3.txt
+2021-10-16 09:12:17 -> Arquivo 4.txt não encontrado no diretório /home/felipe/PycharmProjects/BuscaArquivos/data/
+2021-10-16 09:12:17 -> Arquivo 4.txt encontrado em /home/felipe/PycharmProjects/BuscaArquivos/data/files
+2021-10-16 09:12:17 -> Realizada copia de 4.txt para o diretório /home/felipe/PycharmProjects/BuscaArquivos/data/files/4.txt
+2021-10-16 09:12:17 -> Arquivo 5.txt não encontrado no diretório /home/felipe/PycharmProjects/BuscaArquivos/data/
+2021-10-16 09:12:17 -> Arquivo 5.txt não encontrado no diretório /home/felipe/PycharmProjects/BuscaArquivos/data/files
+2021-10-16 09:12:17 -> Arquivo 5.txt não encontrado no diretório /home/felipe/PycharmProjects/BuscaArquivos/data/logs
+2021-10-16 09:12:17 -> Arquivo 5.txt não encontrado no diretório /home/felipe/PycharmProjects/BuscaArquivos/data/__pycache__
+2021-10-16 09:12:23 -> Arquivo 1.txt não encontrado no diretório /home/felipe/PycharmProjects/BuscaArquivos/data/
+2021-10-16 09:12:23 -> Arquivo 1.txt encontrado em /home/felipe/PycharmProjects/BuscaArquivos/data/files
+2021-10-16 09:12:23 -> Realizada copia de 1.txt para o diretório /home/felipe/PycharmProjects/BuscaArquivos/data/files/1.txt
+2021-10-16 09:12:23 -> Arquivo 2.txt não encontrado no diretório /home/felipe/PycharmProjects/BuscaArquivos/data/
+2021-10-16 09:12:23 -> Arquivo 2.txt encontrado em /home/felipe/PycharmProjects/BuscaArquivos/data/files
+2021-10-16 09:12:23 -> Realizada copia de 2.txt para o diretório /home/felipe/PycharmProjects/BuscaArquivos/data/files/2.txt
+2021-10-16 09:12:23 -> Arquivo 3.txt não encontrado no diretório /home/felipe/PycharmProjects/BuscaArquivos/data/
+2021-10-16 09:12:23 -> Arquivo 3.txt encontrado em /home/felipe/PycharmProjects/BuscaArquivos/data/files
+2021-10-16 09:12:23 -> Realizada copia de 3.txt para o diretório /home/felipe/PycharmProjects/BuscaArquivos/data/files/3.txt
+2021-10-16 09:12:23 -> Arquivo 4.txt não encontrado no diretório /home/felipe/PycharmProjects/BuscaArquivos/data/
+2021-10-16 09:12:23 -> Arquivo 4.txt encontrado em /home/felipe/PycharmProjects/BuscaArquivos/data/files
+2021-10-16 09:12:23 -> Realizada copia de 4.txt para o diretório /home/felipe/PycharmProjects/BuscaArquivos/data/files/4.txt
+2021-10-16 09:12:23 -> Arquivo 5.txt não encontrado no diretório /home/felipe/PycharmProjects/BuscaArquivos/data/
+2021-10-16 09:12:23 -> Arquivo 5.txt não encontrado no diretório /home/felipe/PycharmProjects/BuscaArquivos/data/files
+2021-10-16 09:12:23 -> Arquivo 5.txt não encontrado no diretório /home/felipe/PycharmProjects/BuscaArquivos/data/logs
+2021-10-16 09:12:23 -> Arquivo 5.txt não encontrado no diretório /home/felipe/PycharmProjects/BuscaArquivos/data/__pycache__
